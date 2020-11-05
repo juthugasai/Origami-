@@ -1,0 +1,93 @@
+h1{
+    text-align: center;
+    color:navy;
+}
+
+p{
+    color: darkblue;
+}
+li{
+    color: darkgreen;
+    font-style: oblique;
+}
+hr{
+    color: 0;
+}
+
+h2{
+    text-align: center;
+    color: navy;
+}
+
+h3{
+    text-align: center;
+    color: navy;
+}
+
+
+
+.header{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+}
+
+.description{
+    text-align: center;
+    background-color: aqua;
+}
+
+.footer{
+   
+   background-color: #00eeff;
+   border: none;
+   color: white;
+   padding: 20px;
+   width: 17%;
+   font-weight: bold;
+   text-align: center;
+   text-decoration: none;
+   font-weight: bold;
+   font-size: 16px;
+   margin: 10px 1050px;
+   border-radius: 12px;
+}
+.button {
+    background-color: #00eeff;
+    border: none;
+    color: white;
+    padding: 20px;
+    width: 17%;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 10px 1090px;
+  }
+  
+  .button1 {
+    background-color: #00eeff;
+    border: none;
+    color: white;
+    padding: 20px;
+    width: 17%;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 150px 500px;
+  }
+  .button4 {border-radius: 20px;}
+  .button5 {border-radius: 20px;}
+
+  .navInner {
+    -webkit-box-flex: 1,;
+        -ms-flex: 1, 1, 0px;
+            flex: 1, 1, 0;
+}
+.logo .dValue {
+    font-weight: 300;
+    font-size: 50px;
+}
